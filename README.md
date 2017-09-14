@@ -11,6 +11,8 @@ private $_password = "DB_PASS";
 private $_database = "DB_NAME";
 </pre>
 
+Import the sql file facebook_users.sql to your database.
+
 Update the Facebook API in the login.php and process.php
 
 <pre>
