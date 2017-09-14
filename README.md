@@ -1,7 +1,7 @@
 # Facebook-Login
 This is a simple Facebook login using php sdk and javascript SDK.
 
-# Setting Up
+## Setting Up
 Update your database details in the **class.database.php** 
 
 <pre>
